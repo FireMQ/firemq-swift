@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "FireMQFFI",
             url: "https://github.com/FireMQ/firemq/releases/download/v0.1.0/FireMQFFI.xcframework.zip",
-            checksum: "77eff2b779f835fb9af6ff87c8bcbfb421c6b9a2321325a73e21bc13ae98cd53"
+            checksum: "4c8953b7981b6e84d394d9946f1ce9adc8b956297ef22e01e19d2cbd0d2b4cf3"
         ),
         .target(
             name: "FireMQ",
